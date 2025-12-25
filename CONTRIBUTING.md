@@ -53,7 +53,7 @@ Thanks for your interest in contributing! This document provides guidelines for 
 
 ```bash
 # Clone your fork
-git clone https://github.com/your-username/prompt-compression-gateway.git
+git clone https://github.com/kelpejol/prompt-compression-gateway.git
 cd prompt-compression-gateway
 
 # Create virtual environment
